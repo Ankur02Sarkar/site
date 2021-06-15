@@ -54,10 +54,6 @@ body {
   }
 }
 
-.part2 {
-  margin-top: 700px;
-}
-
 h1 {
   color: #66BFBF;
   margin-top: 20px;
@@ -120,7 +116,7 @@ p {
   margin-left: 50px;
   margin-right: 50px;
 }
-
+/*
 .btn {
   background: #34d99c;
   background-image: -webkit-linear-gradient(top, #34d99c, #009afa);
@@ -151,7 +147,7 @@ p {
   background-image: linear-gradient(to bottom, #3cfc59, #1283e6);
   text-decoration: none;
   border-style: none;
-}
+} */
 
 a:hover {
   border-style: double;
@@ -161,4 +157,8 @@ form {
   font-size: 20px;
   text-align: center;
   color: #01937C;
+}
+
+table{
+  margin-top: 100%;
 }
